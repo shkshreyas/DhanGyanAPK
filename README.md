@@ -50,9 +50,11 @@ The source code for the website is available on GitHub: [DhanGyan Website Source
 ## 📸 Screenshots
 
 **App Screenshots**  
-![HomePage](https://github.com/shkshreyas/DhanGyanAPK/blob/main/screenshots/i1.jpg)  
-![Courses](https://github.com/shkshreyas/DhanGyanAPK/blob/main/screenshots/i2.jpg)  
-![Subscription](https://github.com/shkshreyas/DhanGyanAPK/blob/main/screenshots/i3.jpg)  
+<p align="center">
+  <img src="https://github.com/shkshreyas/DhanGyanAPK/blob/main/screenshots/i1.jpg" width="30%">
+  <img src="https://github.com/shkshreyas/DhanGyanAPK/blob/main/screenshots/i2.jpg" width="30%">
+  <img src="https://github.com/shkshreyas/DhanGyanAPK/blob/main/screenshots/i3.jpg" width="30%">
+</p>
 
 **Website Screenshots**  
 ![Website Screenshot 1](https://github.com/shkshreyas/DhanGyanAPK/blob/main/screenshots/w1.png)  
